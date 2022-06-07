@@ -25,3 +25,4 @@ show databases;
 show tables;
 
 select * from tweets;
+
